@@ -1,0 +1,210 @@
+matrix number 1
+bfs:
+Evaluated Nodes Number: 90
+Cost Solution: 93.000000
+Path: Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 21
+Cost Solution: 122.000000
+Path: Right,Right,Down,Down,Down,Down,Down,Left,Down,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 87
+Cost Solution: 71.000000
+Path: Right,Right,Right,Down,Right,Down,Down,Down,Right,Down,Right,Right,Down,Down,Right,Down,Right,Down
+
+Astar:
+Evaluated Nodes Number: 79
+Cost Solution: 71.000000
+Path: Right,Right,Right,Down,Right,Down,Down,Down,Right,Down,Right,Right,Down,Down,Right,Down,Right,Down
+
+matrix number 2
+bfs:
+Evaluated Nodes Number: 185
+Cost Solution: 168.000000
+Path: Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 27
+Cost Solution: 153.000000
+Path: Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 185
+Cost Solution: 115.000000
+Path: Right,Down,Down,Down,Down,Down,Right,Right,Down,Down,Right,Right,Down,Right,Down,Down,Right,Right,Right,Down,Right,Right,Down,Down,Right,Right
+
+Astar:
+Evaluated Nodes Number: 184
+Cost Solution: 115.000000
+Path: Right,Down,Down,Right,Right,Down,Down,Down,Down,Down,Right,Right,Down,Right,Down,Down,Right,Right,Right,Down,Right,Right,Down,Down,Right,Right
+
+matrix number 3
+bfs:
+Evaluated Nodes Number: 451
+Cost Solution: 231.000000
+Path: Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 46
+Cost Solution: 213.000000
+Path: Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 448
+Cost Solution: 158.000000
+Path: Right,Down,Right,Right,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+Astar:
+Evaluated Nodes Number: 447
+Cost Solution: 158.000000
+Path: Right,Down,Right,Right,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+matrix number 4
+bfs:
+Evaluated Nodes Number: 574
+Cost Solution: 260.000000
+Path: Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down
+
+DFS:
+Evaluated Nodes Number: 53
+Cost Solution: 305.000000
+Path: Right,Down,Down,Down,Down,Down,Down,Down,Down,Left,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Up,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 565
+Cost Solution: 180.000000
+Path: Right,Right,Down,Right,Down,Right,Right,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Right,Right,Down,Down,Down,Down,Right,Down,Right,Right,Right,Down,Right,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down
+
+Astar:
+Evaluated Nodes Number: 560
+Cost Solution: 180.000000
+Path: Right,Right,Down,Right,Down,Right,Down,Right,Down,Down,Right,Down,Down,Down,Down,Down,Down,Right,Right,Down,Down,Down,Down,Right,Down,Right,Right,Right,Down,Right,Down,Down,Down,Down,Right,Right,Right,Down,Right,Down,Right,Right,Right,Right,Right,Right,Right,Down
+
+matrix number 5
+bfs:
+Evaluated Nodes Number: 877
+Cost Solution: 294.000000
+Path: Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 61
+Cost Solution: 300.000000
+Path: Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Up,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 877
+Cost Solution: 198.000000
+Path: Right,Right,Right,Right,Down,Down,Right,Right,Right,Down,Down,Down,Down,Down,Right,Right,Down,Down,Down,Right,Right,Down,Down,Down,Down,Down,Left,Down,Down,Right,Down,Right,Right,Right,Right,Right,Up,Right,Up,Right,Right,Right,Right,Down,Right,Down,Right,Right,Right,Down,Down,Right,Down,Down,Down,Down,Right,Down,Right,Down,Right,Down,Down,Down
+
+Astar:
+Evaluated Nodes Number: 877
+Cost Solution: 198.000000
+Path: Right,Right,Right,Right,Down,Down,Right,Right,Right,Down,Down,Down,Down,Down,Right,Right,Down,Down,Down,Right,Right,Down,Down,Down,Down,Down,Left,Down,Down,Right,Down,Right,Right,Right,Right,Right,Up,Right,Up,Right,Right,Right,Right,Down,Right,Down,Right,Right,Down,Right,Down,Down,Right,Down,Down,Down,Right,Down,Down,Right,Down,Down,Right,Down
+
+matrix number 6
+bfs:
+Evaluated Nodes Number: 1123
+Cost Solution: 393.000000
+Path: Right,Right,Down,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 78
+Cost Solution: 394.000000
+Path: Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Down,Down,Down,Right,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Up,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Up,Up,Right,Right,Down,Right,Right,Down,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 1123
+Cost Solution: 251.000000
+Path: Down,Down,Down,Down,Down,Down,Right,Right,Down,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Right,Down,Down,Right,Down,Down,Down,Right,Right,Down,Down,Down,Down,Right,Right,Down,Right,Right,Down,Right,Right,Down,Right,Down,Right,Down,Right,Right,Right,Down,Right,Down,Right,Right,Right,Right,Down,Down,Right,Right,Right,Right,Down,Right,Right,Down,Down,Down
+
+Astar:
+Evaluated Nodes Number: 1123
+Cost Solution: 251.000000
+Path: Down,Down,Down,Down,Down,Down,Right,Right,Down,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Right,Down,Down,Right,Down,Down,Down,Right,Right,Down,Down,Down,Down,Right,Right,Down,Right,Right,Down,Right,Right,Down,Right,Down,Right,Down,Right,Right,Right,Down,Right,Down,Right,Right,Right,Right,Down,Down,Right,Right,Right,Right,Down,Right,Right,Down,Down,Down
+
+matrix number 7
+bfs:
+Evaluated Nodes Number: 1327
+Cost Solution: 387.000000
+Path: Right,Right,Down,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 80
+Cost Solution: 380.000000
+Path: Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Down,Down,Down,Right,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Up,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 1326
+Cost Solution: 247.000000
+Path: Down,Down,Down,Down,Down,Down,Right,Down,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Down,Right,Right,Down,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Down,Down,Right,Down,Right,Down,Down,Down,Right,Down,Down,Down,Right,Right,Right,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right
+
+Astar:
+Evaluated Nodes Number: 1323
+Cost Solution: 247.000000
+Path: Down,Down,Down,Down,Down,Down,Right,Down,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Down,Right,Right,Down,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Down,Down,Right,Down,Right,Down,Down,Down,Right,Down,Down,Down,Right,Right,Right,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right
+
+matrix number 8
+bfs:
+Evaluated Nodes Number: 1454
+Cost Solution: 470.000000
+Path: Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Right,Down,Right,Down,Down,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 89
+Cost Solution: 502.000000
+Path: Right,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Up,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Up,Up,Right,Right,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Up,Up,Right,Right,Down,Down,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 1448
+Cost Solution: 281.000000
+Path: Right,Right,Right,Down,Right,Right,Down,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Right,Down,Down,Down,Left,Down,Down,Down,Right,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Left,Down,Down,Right,Right,Down,Down,Down,Right,Right,Right,Right,Right,Down,Down,Right,Down,Right,Right,Right,Right,Down,Right,Down,Down,Right,Right,Right,Right,Down,Right,Right,Right,Down,Right,Right,Down,Down,Right,Right
+
+Astar:
+Evaluated Nodes Number: 1440
+Cost Solution: 281.000000
+Path: Right,Right,Down,Right,Right,Right,Down,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Down,Down,Down,Down,Right,Down,Down,Down,Left,Down,Down,Down,Right,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Left,Down,Down,Right,Right,Down,Down,Down,Right,Right,Right,Right,Right,Down,Down,Right,Down,Right,Right,Right,Right,Down,Right,Down,Down,Right,Right,Right,Right,Down,Right,Right,Right,Down,Right,Right,Down,Down,Right,Right
+
+matrix number 9
+bfs:
+Evaluated Nodes Number: 1868
+Cost Solution: 462.000000
+Path: Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Down,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right,Down,Right,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 93
+Cost Solution: 531.000000
+Path: Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Right,Right,Up,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Up,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 1861
+Cost Solution: 293.000000
+Path: Right,Right,Right,Right,Right,Down,Down,Down,Right,Down,Right,Right,Right,Right,Right,Down,Right,Right,Down,Right,Right,Right,Down,Down,Right,Right,Down,Down,Right,Down,Down,Right,Right,Down,Down,Down,Down,Down,Right,Right,Down,Down,Right,Down,Down,Right,Right,Right,Right,Right,Right,Right,Down,Down,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Down,Down,Right,Down,Down,Right,Down,Down,Down,Down,Right,Down,Right,Right,Down,Down,Right,Right,Right
+
+Astar:
+Evaluated Nodes Number: 1854
+Cost Solution: 293.000000
+Path: Right,Right,Right,Right,Right,Down,Down,Down,Right,Down,Right,Right,Right,Right,Right,Down,Right,Right,Down,Right,Right,Right,Down,Down,Right,Right,Down,Down,Right,Down,Down,Right,Right,Down,Down,Down,Down,Down,Right,Right,Down,Down,Right,Down,Down,Right,Right,Right,Right,Right,Right,Right,Down,Down,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Right,Down,Down,Right,Down,Down,Right,Down,Down,Down,Down,Right,Down,Right,Right,Down,Down,Right,Right,Right
+
+matrix number 10
+bfs:
+Evaluated Nodes Number: 2313
+Cost Solution: 526.000000
+Path: Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Right,Right,Down,Down,Right,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Right,Down,Down,Down,Right,Down,Down,Right,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down
+
+DFS:
+Evaluated Nodes Number: 120
+Cost Solution: 657.000000
+Path: Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Down,Down,Down,Down,Down,Down,Right,Right,Up,Right,Right,Down,Down,Right,Right,Up,Up,Right,Right,Down,Right,Down,Right,Right,Right,Right,Up,Up,Right,Right,Down,Down,Right,Right,Right,Right,Right,Right,Right,Up,Right,Right,Down,Right,Right,Right,Right,Right,Right,Up,Right,Right,Right,Right,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right,Right
+
+bestFS:
+Evaluated Nodes Number: 2313
+Cost Solution: 325.000000
+Path: Right,Down,Down,Right,Right,Down,Right,Down,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Right,Down,Down,Right,Down,Right,Right,Right,Down,Down,Right,Down,Right,Right,Down,Down,Down,Right,Down,Right,Right,Down,Down,Right,Right,Down,Down,Right,Right,Right,Down,Right,Down,Down,Right,Right,Down,Down,Right,Down,Down,Down,Right,Right,Down,Down,Right,Down,Down,Down,Right,Down,Right,Right,Down,Down,Down,Down,Down
+
+Astar:
+Evaluated Nodes Number: 2313
+Cost Solution: 325.000000
+Path: Right,Down,Down,Right,Right,Down,Right,Down,Right,Right,Right,Right,Right,Right,Right,Down,Down,Down,Right,Right,Right,Right,Right,Right,Right,Right,Right,Down,Right,Down,Right,Down,Down,Down,Down,Right,Down,Down,Down,Right,Down,Down,Right,Down,Right,Right,Right,Down,Down,Right,Down,Down,Down,Right,Right,Down,Right,Down,Right,Right,Down,Down,Down,Down,Right,Right,Right,Right,Right,Down,Right,Down,Down,Right,Down,Right,Down,Right,Down,Down,Down,Right,Down,Right,Down,Right,Down,Down,Down,Right,Down,Right,Right,Down,Down,Down,Down,Down
+

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RoyAndIdanProject2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RoyAndIdanProject2">
+				<Option output="/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/RoyAndIdanProject2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 RoyAndIdanProject2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RoyAndIdanProject2/fast">
+				<Option output="/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/RoyAndIdanProject2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 RoyAndIdanProject2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/idantp/CLionProjects/RoyAndIdanProject2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/AStar.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/BestFirstSearch.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/BreadthFirstSearch.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/CacheManager.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/ClientHandler.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/DepthFirstSearch.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/FileCacheManager.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/Matrix.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/MatrixClientHandler.cpp">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/MatrixClientHandler.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/MatrixSolver.cpp">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/MatrixSolver.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/ParallelServer.cpp">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/ParallelServer.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/Point.cpp">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/Point.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/Searchable.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/Searcher.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/Server.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/ServerCommunication.cpp">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/ServerCommunication.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/Solver.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/SolverSearcher.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/State.h">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/main.cpp">
+			<Option target="RoyAndIdanProject2"/>
+		</Unit>
+		<Unit filename="/home/idantp/CLionProjects/RoyAndIdanProject2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
